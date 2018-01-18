@@ -703,7 +703,7 @@
     .part_cinema_mode #player-api:before,
     .part_cinema_mode #masthead-positioner:before{
         background-color: rgba(0, 0, 0, .9);
-        background-image: url("https://github.com/WindowsWorkaround101/ParticleCoreCopy/SSundee.png")
+        background-image: url("https://github.com/WindowsWorkaround101/ParticleCoreCopy/SSundee.png");
     }
 /*   end| Cinema mode */
 /* start| Particle settings */
@@ -736,6 +736,7 @@
     }
     #P-sidebar{
         background: #1e1e1e;
+        background-image: url("https://github.com/WindowsWorkaround101/ParticleCoreCopy/src/Add-on/data/images/SSundee.png");
         color: grey;
         float: left;
         width: 195px;

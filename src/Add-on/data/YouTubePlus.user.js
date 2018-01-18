@@ -1,7 +1,7 @@
 ﻿// ==UserScript==
 // @version         1.4.0
 // @name            YouTube +
-// @namespace       https://github.com/WindowsWorkaround101/ParticleCoreCopy
+// @namespace       https://github.com/WindowsWorkaround101
 // @description     YouTube with more freedom
 // @icon            https://raw.githubusercontent.com/ParticleCore/Particle/gh-pages/images/YT%2Bicon.png
 // @match           *://www.youtube.com/*

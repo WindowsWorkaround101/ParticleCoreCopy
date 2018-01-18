@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CnUVO8jdfTr5DYNfPPqiSA==
+SHA1-Digest: 8EfiSBU3geVv94iyddzaCby9IFc=
+
+Name: _locales/en/messages.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1j64hLuguW51hHS8PsMDrQ==
+SHA1-Digest: H0JM1lTW/Ag2l70sON3q8sr+CGg=
+
+Name: CSS/YouTubePlus.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 04++Ub/ZS9A35bgj5aoH1g==
+SHA1-Digest: iwW7soK+K8tI4Eqw3V/AoDMDIYM=
+
+Name: icons/icon128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: l60H7QIr2wUA4tpZxslA9A==
+SHA1-Digest: CR7CnwmYPxBRB1WS0wxkzV3woJQ=
+
+Name: icons/icon16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3d7/Q5hBzaKeFxbvNEXeHg==
+SHA1-Digest: ZETDtwOkmsuRX0G1KNzCnuASX+g=
+
+Name: icons/icon48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UcCuKYUTtTOHZTLunjrePw==
+SHA1-Digest: jcJiy+kIFU49J/yoGKZZ8/yQvos=
+
+Name: JS/YouTubePlus.user.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: O5iEwpribQQOp9Zw3CqwWA==
+SHA1-Digest: 5Nw3NGD+r1oopb10+UEuEoxPUWo=
+
